@@ -22,6 +22,8 @@
   The following is needed to run the test: To allow correct and suffiecnt testing please type (node index.js) to test the program.
   # Questions
   If you have any questions about the repo, open an issue or contact my profile @ https://github.com/Osir-is or contact me via email ferasfaid.dev@gmail.com.
+  # Walkthrough Video
+  <iframe src="https://drive.google.com/file/d/1OH6jy2O2a-THqTXY0z9cNvyyac4E70vh/preview" width="640" height="480"></iframe>
   
   
    
